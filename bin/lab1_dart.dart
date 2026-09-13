@@ -1,7 +1,7 @@
 
-// String greet(String name){
-//   return 'Привет, $name!';
-// }
+String greet(String name){
+  return 'Привет, $name!';
+}
 
 // String greet2(String name) => 'Привет, $name!';
 // int square(int x) => x * x;
